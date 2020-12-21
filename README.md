@@ -1,6 +1,7 @@
 # Minhas anotações pessoais sobre Python
 
-- [Anotações](https://github.com/efurlanm/pyth/blob/master/python.ipynb)
+- [Básico](https://github.com/efurlanm/pyth/blob/master/python.ipynb)
+
 
 
 ## Referências
